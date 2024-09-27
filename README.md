@@ -1,7 +1,8 @@
-# awesome-team-repo
+## Project Overview
+This repository contains the code and resources for our awesome project.
 
-## Jira - Trello
-https://trello.com/b/1eIMaXf9/itm-350
+## Jira
+[Check out our Jira board](https://mbdavis.atlassian.net/jira/software/projects/MFLP/boards/1) to track progress and manage tasks.
 
 ## Group
 - Ezequiel Tartaglia
@@ -11,7 +12,9 @@ https://trello.com/b/1eIMaXf9/itm-350
     - Love the outdoors
     - Expected graduation December 2025 in Cloud Computing
 
-Zane Wood 
+- Zane Wood 
     -Born and raised in Boise Idaho
     - Love hunting and bodybuilding
     - I plan to graduate Dec 2025 in Cybersecurity
+
+- Mike Davis: I enjoy playing board games with my family.
