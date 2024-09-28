@@ -6,15 +6,14 @@ This repository contains the code and resources for our awesome project.
 
 ## Group
 - Ezequiel Tartaglia
-- -Sariha Shepherd: Fun Fact - I collect anything with frogs.
+- Sariha Shepherd: Fun Fact - I collect anything with frogs.
 - Corbin Meacham
     - Born and raised in Idaho
     - Love the outdoors
     - Expected graduation December 2025 in Cloud Computing
-
 - Zane Wood 
     -Born and raised in Boise Idaho
     - Love hunting and bodybuilding
     - I plan to graduate Dec 2025 in Cybersecurity
-
 - Mike Davis: I enjoy playing board games with my family.
+- Pavlo. I like genealogy
