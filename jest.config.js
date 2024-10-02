@@ -1,8 +1,12 @@
-// For every .js file in the src directory, require at least 80% line coverage.
 module.exports = {
-    coverageThreshold: {
-      './src/*.js': {
-        lines: 80
-      }
-    }
-  }
+  coverageThreshold: {
+    // Set coverage threshold for all .js files in the src directory
+    './src/*.js': {
+      lines: 80,
+    },
+    // Set coverage threshold for all .js files in the backend directory
+    './backend/*.js': {
+      lines: 80,
+    },
+  },
+};
