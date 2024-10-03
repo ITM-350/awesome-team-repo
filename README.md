@@ -17,3 +17,4 @@ This repository contains the code and resources for our awesome project.
     - I plan to graduate Dec 2025 in Cybersecurity
 - Mike Davis: I enjoy playing board games with my family.
 - Pavlo. I like genealogy
+- Soren Petersen - I love helping others start and grow a business venture.
