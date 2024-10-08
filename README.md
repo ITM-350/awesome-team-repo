@@ -21,7 +21,6 @@ This repository contains the code and resources for our awesome project.
     -Born and raised in Boise Idaho
     - Love hunting and bodybuilding
     - I plan to graduate Dec 2025 in Cybersecurity
-
 - Mike Davis: 
     - I enjoy playing board games with my family.
 
