@@ -1,8 +1,6 @@
-// src/server.js or backend/server.js
-
+// // src/server.js or backend/server.js
 const express = require('express');
 const app = express();
-const port = 8080;
 
 // Existing routes
 app.get('/', (req, res) => {
@@ -19,9 +17,12 @@ app.get('/heavy', (req, res) => {
   res.send({ sum });
 });
 
-// Start the server
-app.listen(port, '0.0.0.0', () => {
-  console.log(`Server running on port ${port}`)
-})
+// Start the server only if this file is executed directly
+if (require.main === module) {
+  const port = process.env.PORT || 8080;
+  app.listen(port, '0.0.0.0', () => {
+    console.log(`Server running on port ${port}`);
+  });
+}
 
 module.exports = app;
